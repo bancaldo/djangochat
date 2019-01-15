@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.zip
+*.db
+*.spec
+db.sqlite3
